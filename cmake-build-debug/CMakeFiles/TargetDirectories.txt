@@ -1,7 +1,9 @@
-C:/Users/u/CLionProjects/STL/cmake-build-debug/CMakeFiles/STL.dir
-C:/Users/u/CLionProjects/STL/cmake-build-debug/CMakeFiles/STL2.dir
-C:/Users/u/CLionProjects/STL/cmake-build-debug/CMakeFiles/STL3.dir
-C:/Users/u/CLionProjects/STL/cmake-build-debug/CMakeFiles/STL4.dir
-C:/Users/u/CLionProjects/STL/cmake-build-debug/CMakeFiles/STL5.dir
-C:/Users/u/CLionProjects/STL/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/u/CLionProjects/STL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/u/Documents/GitHub/STL/cmake-build-debug/CMakeFiles/STL.dir
+C:/Users/u/Documents/GitHub/STL/cmake-build-debug/CMakeFiles/STL2.dir
+C:/Users/u/Documents/GitHub/STL/cmake-build-debug/CMakeFiles/STL3.dir
+C:/Users/u/Documents/GitHub/STL/cmake-build-debug/CMakeFiles/STL4.dir
+C:/Users/u/Documents/GitHub/STL/cmake-build-debug/CMakeFiles/STL5.dir
+C:/Users/u/Documents/GitHub/STL/cmake-build-debug/CMakeFiles/STL6.dir
+C:/Users/u/Documents/GitHub/STL/cmake-build-debug/CMakeFiles/STL7.dir
+C:/Users/u/Documents/GitHub/STL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/u/Documents/GitHub/STL/cmake-build-debug/CMakeFiles/rebuild_cache.dir

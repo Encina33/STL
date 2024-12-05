@@ -4,6 +4,9 @@ project(STL2)
 project(STL3)
 project(STL4)
 project(STL5)
+project(STL6)
+project(STL7)
+
 
 set(CMAKE_CXX_STANDARD 20)
 
@@ -24,6 +27,12 @@ add_executable(STL4
 )
 add_executable(STL5
         Ejercicio5/main.cpp
+)
+add_executable(STL6
+        Ejercicio6/main.cpp
+)
+add_executable(STL7
+        Ejercicio7/main.cpp
 )
 
 
